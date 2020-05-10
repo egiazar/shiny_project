@@ -2,8 +2,9 @@
 
 fluidPage(
   
-                    titlePanel("H1-B Visa Program"),
-  
+                    titlePanel("H1-B Visa Program: Latest Trends"),
+                    
+                    
                     sidebarLayout(
      
                              sidebarPanel(
